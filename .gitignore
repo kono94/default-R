@@ -1,0 +1,13 @@
+.DS_Store
+.RData
+.Rhistory
+*.csv
+*.xlsx
+*.nb
+*.RProj
+.RProj
+.RProj.user
+*.html
+data/*
+!data/.gitkeep
+.Rproj.user
